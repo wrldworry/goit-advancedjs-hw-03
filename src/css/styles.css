@@ -43,7 +43,7 @@ body {
   z-index: 100;
 }
 
-.search-form {
+.form {
   max-width: 600px;
   margin: 0 auto;
   display: flex;
@@ -224,7 +224,7 @@ main {
     gap: 16px;
   }
 
-  .search-form {
+  .form {
     flex-direction: column;
   }
 
